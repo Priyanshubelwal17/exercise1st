@@ -1,4 +1,14 @@
+FOODS
+
 pav bhaji
 rajma chawal
 matar paneer
 malai chaap
+
+MOVIES
+
+3 idiots
+dosti
+bahubali
+Maharaja
+
